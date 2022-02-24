@@ -1,5 +1,9 @@
 "What makes you excited about programming?"
+<<<<<<< HEAD
 - Solving a bug that I've spent 10 hours looking for, only to realize it was a missing semicolon.
 
 "What is your favorite animal and why?"
 - Goats because they're goated. 
+=======
+- Solving a bug that I've spent 10 hours looking for, only to realize it was a missing semicolon.
+>>>>>>> 1f20e7fd38010b6a10a5e53f5a1933ec5071fab2
