@@ -1,0 +1,5 @@
+"What makes you excited about programming?"
+- Solving a bug that I've spent 10 hours looking for, only to realize it was a missing semicolon.
+
+"What is your favorite animal and why?"
+- Goats because they're goated. 
